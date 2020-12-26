@@ -1,0 +1,10 @@
+2020-08-23T06:30:00+00:00 CRITICAL Uncaught Error: Call to a member function get() on null in C:\xampp\htdocs\flipil\wp-content\plugins\wpforms\src\Integrations\UsageTracking\UsageTracking.php:175
+Stack trace:
+#0 C:\xampp\htdocs\flipil\wp-content\plugins\wpforms\src\Integrations\UsageTracking\UsageTracking.php(146): WPForms\Integrations\UsageTracking\UsageTracking->get_license()
+#1 C:\xampp\htdocs\flipil\wp-content\plugins\wpforms\src\Integrations\UsageTracking\SendUsageTask.php(101): WPForms\Integrations\UsageTracking\UsageTracking->get_data()
+#2 C:\xampp\htdocs\flipil\wp-includes\class-wp-hook.php(287): WPForms\Integrations\UsageTracking\SendUsageTask->process(NULL)
+#3 C:\xampp\htdocs\flipil\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#4 C:\xampp\htdocs\flipil\wp-includes\plugin.php(544): WP_Hook->do_action(Array)
+#5 C:\xampp\htdocs\flipil\wp-content\plugins\woocommerce\packages\action-scheduler\classes\actions\ActionScheduler_Action.php(22): do_action_ref_array('wpforms_send_us...', Array)
+#6 C:\xampp\htdocs\flipil in C:\xampp\htdocs\flipil\wp-content\plugins\wpforms\src\Integrations\UsageTracking\UsageTracking.php on line 175
+

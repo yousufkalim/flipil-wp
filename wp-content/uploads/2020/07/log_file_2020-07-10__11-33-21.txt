@@ -1,0 +1,79 @@
+
+---Downloaded files---
+The import files for: Electro - WP Bakery Page Builder were successfully downloaded!
+Initial max execution time = 5000
+Files info:
+Site URL = http://localhost/rt
+Data file = C:\xampp\htdocs\rt/wp-content/themes/electro/assets/dummy-data/visualcomposer/dummy-data.xml
+Widget file = C:\xampp\htdocs\rt/wp-content/themes/electro/assets/dummy-data/visualcomposer/widgets.wie
+Customizer file = not defined!
+Redux files:
+electro_options -> C:\xampp\htdocs\rt/wp-content/themes/electro/assets/dummy-data/visualcomposer/redux-options.json 
+
+
+------
+New AJAX call!
+[WARNING] Failed to import action-group wc_update_product_lookup_tables
+[WARNING] Failed to import action-group woocommerce-db-updates
+
+
+---pt-ocdi/before_widgets_import---
+
+
+---Importing widgets---
+Home Sidebar : 
+
+Image - No Title - Imported
+Products - Latest Products - Imported
+Electro Features Block - No Title - Imported
+Electro Products Carousel - Featured Products - Imported
+Electro Posts Carousel - From the Blog - Imported
+
+Shop Sidebar : 
+
+Electro Product Categories - No Title - Imported
+Electro Product Filter - Filters - Imported
+Image - No Title - Imported
+Products - Latest Products - Imported
+
+Product Filters : 
+
+Active Product Filters - Active Filters - Imported
+Filter Products by Attribute - Brands - Imported
+Filter Products by Attribute - Color - Imported
+Filter Products by Price - Price - Imported
+
+Blog Sidebar : 
+
+Search - No Title - Imported
+Text - About Blog - Imported
+Categories - Categories - Imported
+Electro Recent Posts - Recent Posts - Imported
+Tag Cloud - Tags Clouds - Imported
+
+Footer Widgets : 
+
+Products - Featured Products - Imported
+Products - Top Selling Products - Imported
+Products - On-sale Products - Imported
+
+Footer Bottom Widgets : 
+
+Navigation Menu - Find It Fast - Imported
+Navigation Menu -   - Imported
+Navigation Menu - Customer Care - Imported
+
+Mobile Footer Bottom Widgets : 
+
+Navigation Menu - We Recommend - Imported
+Navigation Menu - My Account - Imported
+Navigation Menu - Customer Care - Imported
+Navigation Menu - About Us - Imported
+
+
+
+---Importing Redux settings---
+Redux settings import for: electro_options finished successfully!
+
+---pt-ocdi/after_import---
+

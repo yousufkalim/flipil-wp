@@ -1,0 +1,146 @@
+2020-08-03T11:05:23+00:00 CRITICAL Uncaught Error: Class 'Emogrifier' not found in C:\xampp\htdocs\flipil\wp-content\plugins\woocommerce-email-control\ec-email-control.php:1071
+Stack trace:
+#0 C:\xampp\htdocs\flipil\wp-content\plugins\woocommerce-email-control\ec-email-control.php(1017): WC_Email_Control->ec_style_inline_for_old_wc('<!DOCTYPE html>...')
+#1 C:\xampp\htdocs\flipil\wp-includes\class-wp-hook.php(287): WC_Email_Control->ec_style_inline('<!DOCTYPE html>...')
+#2 C:\xampp\htdocs\flipil\wp-includes\plugin.php(206): WP_Hook->apply_filters('<!DOCTYPE html>...', Array)
+#3 C:\xampp\htdocs\flipil\wp-content\plugins\woocommerce\includes\emails\class-wc-email.php(650): apply_filters('woocommerce_mai...', '<!DOCTYPE html>...')
+#4 C:\xampp\htdocs\flipil\wp-content\plugins\woocommerce\includes\emails\class-wc-email-new-order.php(98): WC_Email->send('ahmadjameel9311...', '[Flipil]: New o...', '<!DOCTYPE html>...', 'Content-Type: t...', Array)
+#5 C:\xampp\htdocs\flipil\wp-includes\class-wp-hook.php(287): WC_Email_New_Order->trigger(5477, Object(Au in C:\xampp\htdocs\flipil\wp-content\plugins\woocommerce-email-control\ec-email-control.php on line 1071
+
+2020-08-03T11:08:25+00:00 CRITICAL Uncaught Error: Class 'Emogrifier' not found in C:\xampp\htdocs\flipil\wp-content\plugins\woocommerce-email-control\ec-email-control.php:1071
+Stack trace:
+#0 C:\xampp\htdocs\flipil\wp-content\plugins\woocommerce-email-control\ec-email-control.php(1017): WC_Email_Control->ec_style_inline_for_old_wc('<!DOCTYPE html>...')
+#1 C:\xampp\htdocs\flipil\wp-includes\class-wp-hook.php(287): WC_Email_Control->ec_style_inline('<!DOCTYPE html>...')
+#2 C:\xampp\htdocs\flipil\wp-includes\plugin.php(206): WP_Hook->apply_filters('<!DOCTYPE html>...', Array)
+#3 C:\xampp\htdocs\flipil\wp-content\plugins\woocommerce\includes\emails\class-wc-email.php(650): apply_filters('woocommerce_mai...', '<!DOCTYPE html>...')
+#4 C:\xampp\htdocs\flipil\wp-content\plugins\woocommerce\includes\emails\class-wc-email-new-order.php(98): WC_Email->send('ahmadjameel9311...', '[Flipil]: New o...', '<!DOCTYPE html>...', 'Content-Type: t...', Array)
+#5 C:\xampp\htdocs\flipil\wp-includes\class-wp-hook.php(287): WC_Email_New_Order->trigger(5478, Object(Au in C:\xampp\htdocs\flipil\wp-content\plugins\woocommerce-email-control\ec-email-control.php on line 1071
+
+2020-08-03T11:08:35+00:00 CRITICAL Uncaught Error: Class 'Emogrifier' not found in C:\xampp\htdocs\flipil\wp-content\plugins\woocommerce-email-control\ec-email-control.php:1071
+Stack trace:
+#0 C:\xampp\htdocs\flipil\wp-content\plugins\woocommerce-email-control\ec-email-control.php(1017): WC_Email_Control->ec_style_inline_for_old_wc('<!DOCTYPE html>...')
+#1 C:\xampp\htdocs\flipil\wp-includes\class-wp-hook.php(287): WC_Email_Control->ec_style_inline('<!DOCTYPE html>...')
+#2 C:\xampp\htdocs\flipil\wp-includes\plugin.php(206): WP_Hook->apply_filters('<!DOCTYPE html>...', Array)
+#3 C:\xampp\htdocs\flipil\wp-content\plugins\woocommerce\includes\emails\class-wc-email.php(650): apply_filters('woocommerce_mai...', '<!DOCTYPE html>...')
+#4 C:\xampp\htdocs\flipil\wp-content\plugins\woocommerce\includes\emails\class-wc-email-new-order.php(98): WC_Email->send('ahmadjameel9311...', '[Flipil]: New o...', '<!DOCTYPE html>...', 'Content-Type: t...', Array)
+#5 C:\xampp\htdocs\flipil\wp-includes\class-wp-hook.php(287): WC_Email_New_Order->trigger(5479, Object(Au in C:\xampp\htdocs\flipil\wp-content\plugins\woocommerce-email-control\ec-email-control.php on line 1071
+
+2020-08-03T11:10:06+00:00 CRITICAL Uncaught Error: Class 'Emogrifier' not found in C:\xampp\htdocs\flipil\wp-content\plugins\woocommerce-email-control\ec-email-control.php:1071
+Stack trace:
+#0 C:\xampp\htdocs\flipil\wp-content\plugins\woocommerce-email-control\ec-email-control.php(1017): WC_Email_Control->ec_style_inline_for_old_wc('<!DOCTYPE html>...')
+#1 C:\xampp\htdocs\flipil\wp-includes\class-wp-hook.php(287): WC_Email_Control->ec_style_inline('<!DOCTYPE html>...')
+#2 C:\xampp\htdocs\flipil\wp-includes\plugin.php(206): WP_Hook->apply_filters('<!DOCTYPE html>...', Array)
+#3 C:\xampp\htdocs\flipil\wp-content\plugins\woocommerce-email-control\pages\ec-preview-page.php(195): apply_filters('woocommerce_mai...', '<!DOCTYPE html>...')
+#4 C:\xampp\htdocs\flipil\wp-content\plugins\woocommerce-email-control\ec-email-control.php(578): require_once('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\flipil\wp-includes\class-wp-hook.php(287): WC_Email_Control->ec_render_preview_page('')
+#6 C:\xampp\htdocs\flipil\wp-includes\class-wp-hook.php(311): WP_Hook->appl in C:\xampp\htdocs\flipil\wp-content\plugins\woocommerce-email-control\ec-email-control.php on line 1071
+
+2020-08-03T11:10:19+00:00 CRITICAL Uncaught Error: Class 'Emogrifier' not found in C:\xampp\htdocs\flipil\wp-content\plugins\woocommerce-email-control\ec-email-control.php:1071
+Stack trace:
+#0 C:\xampp\htdocs\flipil\wp-content\plugins\woocommerce-email-control\ec-email-control.php(1017): WC_Email_Control->ec_style_inline_for_old_wc('<!DOCTYPE html>...')
+#1 C:\xampp\htdocs\flipil\wp-includes\class-wp-hook.php(287): WC_Email_Control->ec_style_inline('<!DOCTYPE html>...')
+#2 C:\xampp\htdocs\flipil\wp-includes\plugin.php(206): WP_Hook->apply_filters('<!DOCTYPE html>...', Array)
+#3 C:\xampp\htdocs\flipil\wp-content\plugins\woocommerce-email-control\pages\ec-preview-page.php(195): apply_filters('woocommerce_mai...', '<!DOCTYPE html>...')
+#4 C:\xampp\htdocs\flipil\wp-content\plugins\woocommerce-email-control\ec-email-control.php(578): require_once('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\flipil\wp-includes\class-wp-hook.php(287): WC_Email_Control->ec_render_preview_page('')
+#6 C:\xampp\htdocs\flipil\wp-includes\class-wp-hook.php(311): WP_Hook->appl in C:\xampp\htdocs\flipil\wp-content\plugins\woocommerce-email-control\ec-email-control.php on line 1071
+
+2020-08-03T11:10:22+00:00 CRITICAL Uncaught Error: Class 'Emogrifier' not found in C:\xampp\htdocs\flipil\wp-content\plugins\woocommerce-email-control\ec-email-control.php:1071
+Stack trace:
+#0 C:\xampp\htdocs\flipil\wp-content\plugins\woocommerce-email-control\ec-email-control.php(1017): WC_Email_Control->ec_style_inline_for_old_wc('<!DOCTYPE html>...')
+#1 C:\xampp\htdocs\flipil\wp-includes\class-wp-hook.php(287): WC_Email_Control->ec_style_inline('<!DOCTYPE html>...')
+#2 C:\xampp\htdocs\flipil\wp-includes\plugin.php(206): WP_Hook->apply_filters('<!DOCTYPE html>...', Array)
+#3 C:\xampp\htdocs\flipil\wp-content\plugins\woocommerce-email-control\pages\ec-preview-page.php(195): apply_filters('woocommerce_mai...', '<!DOCTYPE html>...')
+#4 C:\xampp\htdocs\flipil\wp-content\plugins\woocommerce-email-control\ec-email-control.php(578): require_once('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\flipil\wp-includes\class-wp-hook.php(287): WC_Email_Control->ec_render_preview_page('')
+#6 C:\xampp\htdocs\flipil\wp-includes\class-wp-hook.php(311): WP_Hook->appl in C:\xampp\htdocs\flipil\wp-content\plugins\woocommerce-email-control\ec-email-control.php on line 1071
+
+2020-08-03T11:10:26+00:00 CRITICAL Uncaught Error: Class 'Emogrifier' not found in C:\xampp\htdocs\flipil\wp-content\plugins\woocommerce-email-control\ec-email-control.php:1071
+Stack trace:
+#0 C:\xampp\htdocs\flipil\wp-content\plugins\woocommerce-email-control\ec-email-control.php(1017): WC_Email_Control->ec_style_inline_for_old_wc('<!DOCTYPE html>...')
+#1 C:\xampp\htdocs\flipil\wp-includes\class-wp-hook.php(287): WC_Email_Control->ec_style_inline('<!DOCTYPE html>...')
+#2 C:\xampp\htdocs\flipil\wp-includes\plugin.php(206): WP_Hook->apply_filters('<!DOCTYPE html>...', Array)
+#3 C:\xampp\htdocs\flipil\wp-content\plugins\woocommerce-email-control\pages\ec-preview-page.php(190): apply_filters('woocommerce_mai...', '<!DOCTYPE html>...')
+#4 C:\xampp\htdocs\flipil\wp-content\plugins\woocommerce-email-control\ec-email-control.php(578): require_once('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\flipil\wp-includes\class-wp-hook.php(287): WC_Email_Control->ec_render_preview_page('')
+#6 C:\xampp\htdocs\flipil\wp-includes\class-wp-hook.php(311): WP_Hook->appl in C:\xampp\htdocs\flipil\wp-content\plugins\woocommerce-email-control\ec-email-control.php on line 1071
+
+2020-08-03T11:37:16+00:00 CRITICAL Uncaught Error: Class 'Emogrifier' not found in C:\xampp\htdocs\flipil\wp-content\plugins\woocommerce-email-control\ec-email-control.php:1071
+Stack trace:
+#0 C:\xampp\htdocs\flipil\wp-content\plugins\woocommerce-email-control\ec-email-control.php(1017): WC_Email_Control->ec_style_inline_for_old_wc('<!DOCTYPE html>...')
+#1 C:\xampp\htdocs\flipil\wp-includes\class-wp-hook.php(287): WC_Email_Control->ec_style_inline('<!DOCTYPE html>...')
+#2 C:\xampp\htdocs\flipil\wp-includes\plugin.php(206): WP_Hook->apply_filters('<!DOCTYPE html>...', Array)
+#3 C:\xampp\htdocs\flipil\wp-content\plugins\woocommerce-email-control\pages\ec-preview-page.php(190): apply_filters('woocommerce_mai...', '<!DOCTYPE html>...')
+#4 C:\xampp\htdocs\flipil\wp-content\plugins\woocommerce-email-control\ec-email-control.php(578): require_once('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\flipil\wp-includes\class-wp-hook.php(287): WC_Email_Control->ec_render_preview_page('')
+#6 C:\xampp\htdocs\flipil\wp-includes\class-wp-hook.php(311): WP_Hook->appl in C:\xampp\htdocs\flipil\wp-content\plugins\woocommerce-email-control\ec-email-control.php on line 1071
+
+2020-08-03T11:37:16+00:00 CRITICAL Uncaught Error: Class 'Emogrifier' not found in C:\xampp\htdocs\flipil\wp-content\plugins\woocommerce-email-control\ec-email-control.php:1071
+Stack trace:
+#0 C:\xampp\htdocs\flipil\wp-content\plugins\woocommerce-email-control\ec-email-control.php(1017): WC_Email_Control->ec_style_inline_for_old_wc('<!DOCTYPE html>...')
+#1 C:\xampp\htdocs\flipil\wp-includes\class-wp-hook.php(287): WC_Email_Control->ec_style_inline('<!DOCTYPE html>...')
+#2 C:\xampp\htdocs\flipil\wp-includes\plugin.php(206): WP_Hook->apply_filters('<!DOCTYPE html>...', Array)
+#3 C:\xampp\htdocs\flipil\wp-content\plugins\woocommerce-email-control\pages\ec-preview-page.php(190): apply_filters('woocommerce_mai...', '<!DOCTYPE html>...')
+#4 C:\xampp\htdocs\flipil\wp-content\plugins\woocommerce-email-control\ec-email-control.php(578): require_once('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\flipil\wp-includes\class-wp-hook.php(287): WC_Email_Control->ec_render_preview_page('')
+#6 C:\xampp\htdocs\flipil\wp-includes\class-wp-hook.php(311): WP_Hook->appl in C:\xampp\htdocs\flipil\wp-content\plugins\woocommerce-email-control\ec-email-control.php on line 1071
+
+2020-08-03T11:37:26+00:00 CRITICAL Uncaught Error: Class 'Emogrifier' not found in C:\xampp\htdocs\flipil\wp-content\plugins\woocommerce-email-control\ec-email-control.php:1071
+Stack trace:
+#0 C:\xampp\htdocs\flipil\wp-content\plugins\woocommerce-email-control\ec-email-control.php(1017): WC_Email_Control->ec_style_inline_for_old_wc('<!DOCTYPE html>...')
+#1 C:\xampp\htdocs\flipil\wp-includes\class-wp-hook.php(287): WC_Email_Control->ec_style_inline('<!DOCTYPE html>...')
+#2 C:\xampp\htdocs\flipil\wp-includes\plugin.php(206): WP_Hook->apply_filters('<!DOCTYPE html>...', Array)
+#3 C:\xampp\htdocs\flipil\wp-content\plugins\woocommerce-email-control\pages\ec-preview-page.php(195): apply_filters('woocommerce_mai...', '<!DOCTYPE html>...')
+#4 C:\xampp\htdocs\flipil\wp-content\plugins\woocommerce-email-control\ec-email-control.php(578): require_once('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\flipil\wp-includes\class-wp-hook.php(287): WC_Email_Control->ec_render_preview_page('')
+#6 C:\xampp\htdocs\flipil\wp-includes\class-wp-hook.php(311): WP_Hook->appl in C:\xampp\htdocs\flipil\wp-content\plugins\woocommerce-email-control\ec-email-control.php on line 1071
+
+2020-08-03T11:37:49+00:00 CRITICAL Uncaught Error: Class 'Emogrifier' not found in C:\xampp\htdocs\flipil\wp-content\plugins\woocommerce-email-control\ec-email-control.php:1071
+Stack trace:
+#0 C:\xampp\htdocs\flipil\wp-content\plugins\woocommerce-email-control\ec-email-control.php(1017): WC_Email_Control->ec_style_inline_for_old_wc('<!DOCTYPE html>...')
+#1 C:\xampp\htdocs\flipil\wp-includes\class-wp-hook.php(287): WC_Email_Control->ec_style_inline('<!DOCTYPE html>...')
+#2 C:\xampp\htdocs\flipil\wp-includes\plugin.php(206): WP_Hook->apply_filters('<!DOCTYPE html>...', Array)
+#3 C:\xampp\htdocs\flipil\wp-content\plugins\woocommerce\includes\emails\class-wc-email.php(650): apply_filters('woocommerce_mai...', '<!DOCTYPE html>...')
+#4 C:\xampp\htdocs\flipil\wp-content\plugins\woocommerce\includes\emails\class-wc-email-new-order.php(98): WC_Email->send('ahmadjameel9311...', '[Flipil]: New o...', '<!DOCTYPE html>...', 'Content-Type: t...', Array)
+#5 C:\xampp\htdocs\flipil\wp-includes\class-wp-hook.php(287): WC_Email_New_Order->trigger(5484, Object(Au in C:\xampp\htdocs\flipil\wp-content\plugins\woocommerce-email-control\ec-email-control.php on line 1071
+
+2020-08-03T11:37:55+00:00 CRITICAL Uncaught Error: Class 'Emogrifier' not found in C:\xampp\htdocs\flipil\wp-content\plugins\woocommerce-email-control\ec-email-control.php:1071
+Stack trace:
+#0 C:\xampp\htdocs\flipil\wp-content\plugins\woocommerce-email-control\ec-email-control.php(1017): WC_Email_Control->ec_style_inline_for_old_wc('<!DOCTYPE html>...')
+#1 C:\xampp\htdocs\flipil\wp-includes\class-wp-hook.php(287): WC_Email_Control->ec_style_inline('<!DOCTYPE html>...')
+#2 C:\xampp\htdocs\flipil\wp-includes\plugin.php(206): WP_Hook->apply_filters('<!DOCTYPE html>...', Array)
+#3 C:\xampp\htdocs\flipil\wp-content\plugins\woocommerce-email-control\pages\ec-preview-page.php(195): apply_filters('woocommerce_mai...', '<!DOCTYPE html>...')
+#4 C:\xampp\htdocs\flipil\wp-content\plugins\woocommerce-email-control\ec-email-control.php(578): require_once('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\flipil\wp-includes\class-wp-hook.php(287): WC_Email_Control->ec_render_preview_page('')
+#6 C:\xampp\htdocs\flipil\wp-includes\class-wp-hook.php(311): WP_Hook->appl in C:\xampp\htdocs\flipil\wp-content\plugins\woocommerce-email-control\ec-email-control.php on line 1071
+
+2020-08-03T11:37:55+00:00 CRITICAL Uncaught Error: Class 'Emogrifier' not found in C:\xampp\htdocs\flipil\wp-content\plugins\woocommerce-email-control\ec-email-control.php:1071
+Stack trace:
+#0 C:\xampp\htdocs\flipil\wp-content\plugins\woocommerce-email-control\ec-email-control.php(1017): WC_Email_Control->ec_style_inline_for_old_wc('<!DOCTYPE html>...')
+#1 C:\xampp\htdocs\flipil\wp-includes\class-wp-hook.php(287): WC_Email_Control->ec_style_inline('<!DOCTYPE html>...')
+#2 C:\xampp\htdocs\flipil\wp-includes\plugin.php(206): WP_Hook->apply_filters('<!DOCTYPE html>...', Array)
+#3 C:\xampp\htdocs\flipil\wp-content\plugins\woocommerce-email-control\pages\ec-preview-page.php(195): apply_filters('woocommerce_mai...', '<!DOCTYPE html>...')
+#4 C:\xampp\htdocs\flipil\wp-content\plugins\woocommerce-email-control\ec-email-control.php(578): require_once('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\flipil\wp-includes\class-wp-hook.php(287): WC_Email_Control->ec_render_preview_page('')
+#6 C:\xampp\htdocs\flipil\wp-includes\class-wp-hook.php(311): WP_Hook->appl in C:\xampp\htdocs\flipil\wp-content\plugins\woocommerce-email-control\ec-email-control.php on line 1071
+
+2020-08-03T11:42:29+00:00 CRITICAL Uncaught Error: Class 'Emogrifier' not found in C:\xampp\htdocs\flipil\wp-content\plugins\woocommerce-email-control\ec-email-control.php:1071
+Stack trace:
+#0 C:\xampp\htdocs\flipil\wp-content\plugins\woocommerce-email-control\ec-email-control.php(1017): WC_Email_Control->ec_style_inline_for_old_wc('<!DOCTYPE html>...')
+#1 C:\xampp\htdocs\flipil\wp-includes\class-wp-hook.php(287): WC_Email_Control->ec_style_inline('<!DOCTYPE html>...')
+#2 C:\xampp\htdocs\flipil\wp-includes\plugin.php(206): WP_Hook->apply_filters('<!DOCTYPE html>...', Array)
+#3 C:\xampp\htdocs\flipil\wp-content\plugins\woocommerce-email-control\pages\ec-preview-page.php(195): apply_filters('woocommerce_mai...', '<!DOCTYPE html>...')
+#4 C:\xampp\htdocs\flipil\wp-content\plugins\woocommerce-email-control\ec-email-control.php(578): require_once('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\flipil\wp-includes\class-wp-hook.php(287): WC_Email_Control->ec_render_preview_page('')
+#6 C:\xampp\htdocs\flipil\wp-includes\class-wp-hook.php(311): WP_Hook->appl in C:\xampp\htdocs\flipil\wp-content\plugins\woocommerce-email-control\ec-email-control.php on line 1071
+
+2020-08-03T11:42:29+00:00 CRITICAL Uncaught Error: Class 'Emogrifier' not found in C:\xampp\htdocs\flipil\wp-content\plugins\woocommerce-email-control\ec-email-control.php:1071
+Stack trace:
+#0 C:\xampp\htdocs\flipil\wp-content\plugins\woocommerce-email-control\ec-email-control.php(1017): WC_Email_Control->ec_style_inline_for_old_wc('<!DOCTYPE html>...')
+#1 C:\xampp\htdocs\flipil\wp-includes\class-wp-hook.php(287): WC_Email_Control->ec_style_inline('<!DOCTYPE html>...')
+#2 C:\xampp\htdocs\flipil\wp-includes\plugin.php(206): WP_Hook->apply_filters('<!DOCTYPE html>...', Array)
+#3 C:\xampp\htdocs\flipil\wp-content\plugins\woocommerce-email-control\pages\ec-preview-page.php(195): apply_filters('woocommerce_mai...', '<!DOCTYPE html>...')
+#4 C:\xampp\htdocs\flipil\wp-content\plugins\woocommerce-email-control\ec-email-control.php(578): require_once('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\flipil\wp-includes\class-wp-hook.php(287): WC_Email_Control->ec_render_preview_page('')
+#6 C:\xampp\htdocs\flipil\wp-includes\class-wp-hook.php(311): WP_Hook->appl in C:\xampp\htdocs\flipil\wp-content\plugins\woocommerce-email-control\ec-email-control.php on line 1071
+
